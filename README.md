@@ -11,7 +11,8 @@ In this project, we conducted an exploratory data analysis on a dataset containi
 - `merged_courses.tsv`: This file contains the links of all the 6000 retrieved masters. <br> 
 
 ## Folders
-- `html_pages`: This folder contains 
+- `html_pages`: This folder contains several subfolders each containig 15 html master pages as requested from the task.
+- `tsv_files` : This folder contains
 
 
 ## Authors 
