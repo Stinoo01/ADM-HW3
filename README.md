@@ -4,9 +4,9 @@ In this project, we conducted an exploratory data analysis on a dataset containi
 
 ## Project Structure
 
-- `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. 
-
-- `main.html`: This is the HTML version of the `main.ipynb` notebook. 
+- `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
+- `main.html`: This is the HTML version of the `main.ipynb` notebook. <br>
+- `CommandLine.sh`: This file contains the code of the command line. Yet, the result are stored into the `main.ipynb`. <br>
 
 
 
