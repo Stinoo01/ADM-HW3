@@ -6,11 +6,15 @@ In this project, we conducted an exploratory data analysis on a dataset containi
 
 - `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
 - `main.html`: This is the HTML version of the `main.ipynb` notebook. <br>
-- `CommandLine.sh`: This file contains the code of the command line. Yet, the result are stored into the `main.ipynb`. <br>
+- `CommandLine.sh`: This file contains the code of the command line. Yet, the result is stored into the `main.ipynb`. <br>
+- `html_pages.json`: This file contains the retrieved selected information from the HTML pages. It was created to access in a fast way the retrieved information <br>
+- `merged_courses.tsv`: This file contains the links of all the 6000 retrieved masters. <br> 
+
+## Folders
+- `html_pages`: This folder contains 
 
 
-
-### Authors 
+## Authors 
 
 [**@Simay Caliskan**](https://github.com/simaycaliskan)  <br>
 [**@Mario Iacobelli**](https://github.com/marioiacobelli) <br>
