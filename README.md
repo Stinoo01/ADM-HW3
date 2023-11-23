@@ -10,9 +10,8 @@ In this project, we <br>
 - `merged_courses.tsv`: This file contains the links of all the 6000 retrieved masters. <br> 
 
 ## Folders
-- `html_pages`: This folder contains several subfolders each containig 15 html master pages, as requested from the task.
-- `tsv_files` : This folder contains all the 6000 master selected information in tsv format, as requested from the task.
-
+- `html_pages`: This folder contains several subfolders each containig 15 html master pages, as requested from the task. <br>
+- `tsv_files` : This folder contains all the 6000 master selected information in tsv format, as requested from the task. <br>
 
 ## Authors 
 
