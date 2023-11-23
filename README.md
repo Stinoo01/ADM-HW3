@@ -7,7 +7,8 @@ In this project, we <br>
 - `main.html`: This is the HTML version of the `main.ipynb` notebook. <br>
 - `CommandLine.sh`: This file contains the code of the command line. Yet, the result is stored into the `main.ipynb`. <br>
 - `html_pages.json`: This file contains the retrieved selected information from the HTML pages. It was created to access in a fast way the retrieved information. <br>
-- `merged_courses.tsv`: This file contains the links of all the 6000 retrieved masters. <br> 
+- `master_urls.txt`: This file contains the links of all the 6000 retrieved masters. <br>
+- `merged_courses.tsv`: This file is the same as `html_pages.json` but information is stored in a tsv type. <br>
 
 ## Folders
 - `html_pages`: This folder contains several subfolders each containig 15 html master pages, as requested from the task. <br>
