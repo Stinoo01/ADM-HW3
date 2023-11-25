@@ -4,6 +4,7 @@ In this project, we <br>
 ## Project Structure
 
 - `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
+    (Please, note that in order to see the maps in exercise 4, you have to download the 'main.ipynb' file)<br>
 - `CommandLine.sh`: This file contains the code of the command line. Yet, the result is stored into the `main.ipynb`. <br>
 - `html_pages.json`: This file contains the retrieved selected information from the HTML pages. It was created to access in a fast way the retrieved information. <br>
 - `master_urls.txt`: This file contains the links of all the 6000 retrieved masters. <br>
@@ -18,4 +19,4 @@ In this project, we <br>
 [**@Simay Caliskan**](https://github.com/simaycaliskan)  <br>
 [**@Mario Iacobelli**](https://github.com/marioiacobelli) <br>
 [**@Stefano Rinaldi**](https://github.com/Stinoo01)  <br>
-[****]() <br> 
+[**@Darkhan Maksutov**]()
