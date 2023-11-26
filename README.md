@@ -13,7 +13,7 @@ In this project, we <br>
 - `tsv_files` : This folder contains all the 6000 master selected information in tsv format, as requested from the task. <br>
 - `supplementary_data` : This folder contains three files where you will be able to find supplementary materials:
     - `master_urls.txt`: This file contains the links of all the 6000 retrieved masters. <br>
-    - `merged_courses.tsv`: This file is the same as `html_pages.json` but information is stored in a tsv type. <br>
+    - `merged_courses.tsv`: This file is the merge of all the files contained into the `tsv_files` folder. <br> 
     - `html_pages.json`: This file contains the retrieved selected information from the HTML pages. It was created to access in a fast way the retrieved information. <br>
 
 ## Authors 
