@@ -4,7 +4,7 @@ In this Repository, you will be able to find all the necessary material for answ
 ## Project Structure
 
 - `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
-    (Note: in the case that maps on Exercise 4 are not visible, please, refer to this [link](https://nbviewer.org/github/Stinoo01/ADM-HW3/blob/main/main.ipynb )<br>
+    (Note: in the case that maps on Exercise 4 are not visible, please, refer to this [link](https://nbviewer.org/github/Stinoo01/ADM-HW3/blob/main/main.ipynb ) )<br>
 - `CommandLine.sh`: This file contains the code of the command line. Yet, the result is stored into the `main.ipynb`. <br>
 
 
