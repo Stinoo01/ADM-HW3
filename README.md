@@ -1,6 +1,6 @@
 # ADM-HW3: Master's Degrees from all over!
 
-In this project, we <br>
+In this Repository, you will be able to find all the necessary material for answering the [ADM-HW3](https://github.com/Sapienza-University-Rome/ADM/tree/master/2023/Homework_3) of Data Science 2023/2024, Sapienza - University of Rome. <br>
 ## Project Structure
 
 - `main.ipynb`: This Jupyter notebook contains all the answers to the research questions (RQs), the Command Line Question and the Algorithmic Question. <br>
