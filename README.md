@@ -19,4 +19,4 @@ In this project, we <br>
 [**@Simay Caliskan**](https://github.com/simaycaliskan)  <br>
 [**@Mario Iacobelli**](https://github.com/marioiacobelli) <br>
 [**@Stefano Rinaldi**](https://github.com/Stinoo01)  <br>
-[**@Darkhan Maksutov**]()
+[**@Darkhan Maksutov**](https://github.com/DarkhanMax)
